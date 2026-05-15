@@ -42,6 +42,17 @@
     "directory": "card",
     "groups": [
       {
+        "group": "Pengenalan",
+        "icon": "book-open-reader",
+        "expanded": true,
+        "pages": [
+          "index",
+          "pengenalan/cara-mengakses-aplikasi",
+          "pengenalan/cara-keluar-aplikasi",
+          "pengenalan/cara-ubah-password"
+        ]
+      },
+      {
         "group": "Audit",
         "icon": "clipboard-check",
         "expanded": true,
